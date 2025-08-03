@@ -115,3 +115,6 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml 
+
+
+similarity.pkl
